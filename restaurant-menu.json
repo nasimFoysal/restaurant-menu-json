@@ -1,0 +1,85 @@
+{
+    "categories": {
+      "Gourmet": [
+        {"id": 1, "name": "Foie Gras", "price": 45.99},
+        {"id": 2, "name": "Truffle Risotto", "price": 38.50},
+        {"id": 3, "name": "Lobster Thermidor", "price": 65.00},
+        {"id": 4, "name": "Beef Wellington", "price": 55.75},
+        {"id": 5, "name": "Caviar Blini", "price": 85.00},
+        {"id": 6, "name": "Duck Confit", "price": 42.25},
+        {"id": 7, "name": "Escargot", "price": 36.99},
+        {"id": 8, "name": "Rack of Lamb", "price": 48.50}
+      ],
+      "Haute Cuisine": [
+        {"id": 9, "name": "Coq au Vin", "price": 40.00},
+        {"id": 10, "name": "Bouillabaisse", "price": 55.00},
+        {"id": 11, "name": "Beef Bourguignon", "price": 50.75},
+        {"id": 12, "name": "Pâté de Canard en Croûte", "price": 42.50},
+        {"id": 13, "name": "Sole Meunière", "price": 58.25},
+        {"id": 14, "name": "Cassoulet", "price": 47.99},
+        {"id": 15, "name": "Tournedos Rossini", "price": 65.00},
+        {"id": 16, "name": "Quenelle de Brochet", "price": 60.50}
+      ],
+      "Artisanal": [
+        {"id": 17, "name": "Handcrafted Charcuterie", "price": 32.99},
+        {"id": 18, "name": "Artisanal Cheese Platter", "price": 28.75},
+        {"id": 19, "name": "Wood-Fired Pizza", "price": 20.50},
+        {"id": 20, "name": "Handmade Pasta", "price": 24.99},
+        {"id": 21, "name": "Crafted Sushi Rolls", "price": 35.00},
+        {"id": 22, "name": "Artisanal Bread Basket", "price": 15.50},
+        {"id": 23, "name": "Hand-Churned Gelato", "price": 12.99},
+        {"id": 24, "name": "Small-Batch Chocolate Truffles", "price": 18.75}
+      ],
+      "Fusion": [
+        {"id": 25, "name": "Sushi Tacos", "price": 28.50},
+        {"id": 26, "name": "Korean BBQ Tacos", "price": 30.00},
+        {"id": 27, "name": "Thai Curry Pizza", "price": 22.75},
+        {"id": 28, "name": "Moroccan Spiced Tacos", "price": 26.99},
+        {"id": 29, "name": "Indian-inspired Tacos", "price": 25.50},
+        {"id": 30, "name": "Tex-Mex Sushi Rolls", "price": 35.25},
+        {"id": 31, "name": "Mediterranean Nachos", "price": 21.99},
+        {"id": 32, "name": "Asian-inspired Tapas", "price": 30.75}
+      ],
+      "Exquisite": [
+        {"id": 33, "name": "Wagyu Beef Sashimi", "price": 75.00},
+        {"id": 34, "name": "Alaskan King Crab Legs", "price": 85.00},
+        {"id": 35, "name": "White Truffle Pasta", "price": 60.75},
+        {"id": 36, "name": "Foie Gras Profiteroles", "price": 42.99},
+        {"id": 37, "name": "Champagne-poached Oysters", "price": 38.50},
+        {"id": 38, "name": "Lobster Ravioli with Saffron Cream Sauce", "price": 65.00},
+        {"id": 39, "name": "Kobe Beef Carpaccio", "price": 68.25},
+        {"id": 40, "name": "Wild Mushroom Risotto with Black Truffle Shavings", "price": 55.99}
+      ],
+      "Epicurean": [
+        {"id": 41, "name": "Prime Ribeye Steak", "price": 55.00},
+        {"id": 42, "name": "Wild-caught Salmon Fillet", "price": 48.50},
+        {"id": 43, "name": "Duck Breast with Cherry Port Sauce", "price": 50.75},
+        {"id": 44, "name": "Grilled Jumbo Shrimp", "price": 45.99},
+        {"id": 45, "name": "Veal Chop with Morel Mushroom Sauce", "price": 60.50},
+        {"id": 46, "name": "Seafood Paella", "price": 55.00},
+        {"id": 47, "name": "Stuffed Quail with Fig Glaze", "price": 58.25},
+        {"id": 48, "name": "Braised Short Ribs", "price": 42.99}
+      ],
+      "Decadent": [
+        {"id": 49, "name": "Molten Chocolate Lava Cake", "price": 18.99},
+        {"id": 50, "name": "Crème Brûlée", "price": 14.50},
+        {"id": 51, "name": "Baked Alaska", "price": 22.75},
+        {"id": 52, "name": "Chocolate Soufflé", "price": 20.99},
+        {"id": 53, "name": "Tiramisu", "price": 16.50},
+        {"id": 54, "name": "Bananas Foster", "price": 18.75},
+        {"id": 55, "name": "Raspberry Mousse", "price": 16.99},
+        {"id": 56, "name": "Profiteroles with Vanilla Bean Ice Cream", "price": 20.50}
+      ],
+      "Opulent": [
+        {"id": 57, "name": "Beluga Caviar", "price": 150.00},
+        {"id": 58, "name": "Kobe Beef Steak Tartare", "price": 75.00},
+        {"id": 59, "name": "Truffle-infused Foie Gras Mousse", "price": 85.00},
+        {"id": 60, "name": "King Crab Tower with Gold Leaf", "price": 180.00},
+        {"id": 61, "name": "Wagyu Beef Carpaccio with White Truffle Oil", "price": 90.00},
+        {"id": 62, "name": "Lobster Bisque with Sherry Cream", "price": 45.99},
+        {"id": 63, "name": "Oysters Rockefeller", "price": 38.50},
+        {"id": 64, "name": "Dom Pérignon-infused Sorbet", "price": 28.75}
+      ]
+    }
+  }
+  
