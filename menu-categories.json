@@ -1,13 +1,12 @@
-
 {
-    "categories": [
-    "Gourmet",
-    "Haute Cuisine",
-    "Artisanal",
-    "Fusion",
-    "Exquisite",
-    "Epicurean",
-    "Decadent",
-    "Opulent"
-    ]
-    }
+  "categories": [
+    { "id": 1, "name": "Gourmet" },
+    { "id": 2, "name": "Haute Cuisine" },
+    { "id": 3, "name": "Artisanal" },
+    { "id": 4, "name": "Fusion" },
+    { "id": 5, "name": "Exquisite" },
+    { "id": 6, "name": "Epicurean" },
+    { "id": 7, "name": "Decadent" },
+    { "id": 8, "name": "Opulent" }
+  ]
+}
