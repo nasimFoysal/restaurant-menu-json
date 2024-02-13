@@ -1,5 +1,6 @@
 {
   "categories": [
+    { "id": 0, "name": "All Categories" },
     { "id": 1, "name": "Gourmet" },
     { "id": 2, "name": "Haute Cuisine" },
     { "id": 3, "name": "Artisanal" },
